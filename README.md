@@ -1,4 +1,3 @@
 - Canvas 绘制星空
 - [查看DEMO](https://honeyjie.github.io/star)
-<br>
 -![picture](./star.png)
